@@ -1,0 +1,16 @@
+.list {
+    padding-top: 5rem;
+    font-size: 150%;
+    line-height: 1.8rem;
+}
+
+    .list > li {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .list > li > a > img {
+            width: 1.8rem;
+            height: auto;
+        }
